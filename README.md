@@ -1,4 +1,4 @@
-# Rstudio_common_bugs
+# Rstudio_rJAVA problems
 Dealing with Rstudio bugs for common biodata analysis problems (begginer level)
 #This code deals with rJava incompatibility with Rstudo environment due to the differences in their architecture 
 #e.g. 64bit vs 32bit
